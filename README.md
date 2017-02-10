@@ -16,8 +16,7 @@ Admin is considered everyone that has operator access rights in the gather chann
 
 #### private message to gatherbot: ####
 
-**!startgame** *server_ip* *password*: starts a game on the server specified by the IP address *server_ip* and the password *password*
-
+**!startgame** *server_ip* *password*: starts a game on the server specified by the IP address *server_ip* and the password *password*<br />
 **!type** *description_of_game*: set the description of game (e.g. the rule set, like "max rounds 15 - 5 vs 5 - Anti-cheat ON").
 **!map** *map name*: set the map of the game (e.g. "de_dust2")
 **!info ok**: confirm that everything is set correctly and start the game
