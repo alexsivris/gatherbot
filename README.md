@@ -1,4 +1,4 @@
-# mIRC Gatherbot for CS 1.6 #
+# mIRC Gatherbot#
 
 This mIRC script can be used to create simple pickup-games (5vs5) in an IRC channel where privileged users (called *admins*) can start games and normal users can add themselves to these games. The idea was inspired by the Greek gather networks that were very popular at around 2006-2008 (channels `#cs-gather`, `#5vs5`, `#hl-gather`, etc. on the GRNet IRC server) and also used similar systems to organize games. 
 This script was developed in early 2008.
@@ -38,6 +38,10 @@ Of course the admin can also execute the user commands.
 **!totalgames**: total games the gather channel has launched in a month
 **!add** *a/b*: adds user to either team a (usually CT) or team b (usually T). In case the user just types **!add**, the team is chosen randomly and/or according to current team count
 **!getpass**: when the teams are full and the password hasn't been sent yet, the user can request the password with this command
+
+# Contributors #
+
+*  Alexandros Sivris
 
 
 
